@@ -1,17 +1,16 @@
+## Welcome to my GitHub profile! 🥳
 - :smile: Hi, I’m Ilaria
 - :woman_scientist: Biomolecular Chemist
 - :computer: Bioinformatician | Data analyst | Biostatistian
-- 
-- Welcome to my GitHub profile! 🥳
 
-- :test_tube Scientific Interests
-  **Transcriptomics & Epigenomics**
-  **Machine Leraning for Biomedical Applications**
-  **Multi-omics Data Integration**
-  **Complex Network in Biology**
-  **Environmental Epidemiology**
+## 🧪 Scientific Interests
+- **Transcriptomics & Epigenomics**
+- **Machine Leraning for Biomedical Applications**
+- **Multi-omics Data Integration**
+- **Complex Network in Biology**
+- **Environmental Epidemiology**
 
-📫 Contact  
+## 📫 Contact  
 - :email: ilaria.cosentini@irib.cnr.it
 - 🖼️ avatar retrieved from https://www.frontiersin.org/articles/10.3389/fgene.2020.610798   
 <!---
