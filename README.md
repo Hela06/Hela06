@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! 🥳
 - :smile: Hi, I’m Ilaria
 - :woman_scientist: Biomolecular Chemist
-- :computer: Bioinformatician | 📊 Data analyst | 📈 Biostatistian
+- :computer: Bioinformatician | 📊 Data analyst | 📈 Biostatistician
 
 ## 🧪 Scientific Interests
 - **Transcriptomics & Epigenomics**
